@@ -1,0 +1,27 @@
+# Windows / OneDrive
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# Office lock and temp files
+~$*
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Customer data (never commit)
+customers.csv
+Assignment 01\customers.csv
+
