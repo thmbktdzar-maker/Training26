@@ -33,28 +33,29 @@ and last order date 6/30/2026
 
 ### a pivot table of orders per month. How many months does the data cover, and which month has the most orders?
 
-Orders per month: see the pivot table below.
+Orders per month: see the pivot table below. The spreadsheet is attached here: [Pivot Table Question 6.xlsx](<./Pivot Table Question 6.xlsx>).
 - Months covered: 18 (Jan 2025–Jun 2026)
 - Month with the most orders: Dec 2025, with 596 orders
-Month	Orders
-Dec-25	596
-May-26	479
-Feb-26	414
-Apr-26	378
-Jun-26	377
-Mar-26	371
-Jan-26	349
-Sep-25	348
-May-25	339
-Oct-25	313
-Nov-25	310
-Feb-25	291
-Mar-25	281
-Aug-25	261
-Jun-25	261
-Apr-25	260
-Jul-25	231
-Jan-25	216
+| Month   | Orders |
+| ------- | ------ |
+| Dec-25  | 596    |
+| May-26  | 479    |
+| Feb-26  | 414    |
+| Apr-26  | 378    |
+| Jun-26  | 377    |
+| Mar-26  | 371    |
+| Jan-26  | 349    |
+| Sep-25  | 348    |
+| May-25  | 339    |
+| Oct-25  | 313    |
+| Nov-25  | 310    |
+| Feb-25  | 291    |
+| Mar-25  | 281    |
+| Aug-25  | 261    |
+| Jun-25  | 261    |
+| Apr-25  | 260    |
+| Jul-25  | 231    |
+| Jan-25  | 216    |
 
 #### two things in the data that surprised you or that you do not yet understand
 1. December 2025 had 596 orders, the highest monthly total. Was there a holiday promotion, a large one-time order, or another event that explains the spike?
