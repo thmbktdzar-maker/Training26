@@ -14,3 +14,5 @@ Task: My responsibility was to help identify the cause of the delays and recomme
 Action: I collected and analyzed several weeks of ticket data using Excel, focusing on ticket volume, response times, and peak activity periods. After reviewing the information, I discovered that most delays occurred during specific hours when ticket volume was highest. I presented my findings to the supervisor and suggested adjusting staff schedules to provide additional coverage during those peak periods.
 Result: After implementing the schedule changes, average response times improved significantly, and customer complaints decreased. This experience showed me how data-driven decisions can solve operational problems and improve both efficiency and customer satisfaction.
 
+
+
